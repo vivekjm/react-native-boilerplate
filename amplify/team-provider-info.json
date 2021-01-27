@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-cwikpaymobileapp-dev-111507-authRole",
+            "UnauthRoleArn": "arn:aws:iam::701189951673:role/amplify-cwikpaymobileapp-dev-111507-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::701189951673:role/amplify-cwikpaymobileapp-dev-111507-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-cwikpaymobileapp-dev-111507-deployment",
+            "UnauthRoleName": "amplify-cwikpaymobileapp-dev-111507-unauthRole",
+            "StackName": "amplify-cwikpaymobileapp-dev-111507",
+            "StackId": "arn:aws:cloudformation:us-east-2:701189951673:stack/amplify-cwikpaymobileapp-dev-111507/fff15de0-d7a7-11ea-acba-0ac225ff6c98",
+            "AmplifyAppId": "d190gokemzty2g"
+        },
+        "categories": {
+            "auth": {
+                "cwikpaymobileappf58764eb": {}
+            }
+        }
+    }
+}

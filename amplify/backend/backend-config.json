@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"cwikpaymobileappf58764eb": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
